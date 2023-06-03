@@ -9,10 +9,6 @@ Made with :
 
 ## So how does it work ?
 
-Here is a quick diagram :
-
-![ClassDiagram](https://github.com/hibiscae-m/Morpion/assets/111366072/654acf4c-f21f-4eb0-8ede-527cedfc82c7)
-
 Basically the main.cpp instanciates the Game class, who hold the game loop inside its run function.
 
 The Game Class generates and manages the window based with the parameters defined inside the WindowSettings class, which is made static. It also instanciates the PlayGround class who acts as a game Manager.
