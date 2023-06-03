@@ -1,4 +1,4 @@
-# Morpion
+# Tic-Tac-Toe
 
 Small Object Oriented Program made in C++. It only has the basics, I didn't spent much time on the UI but it actually works :)
 
